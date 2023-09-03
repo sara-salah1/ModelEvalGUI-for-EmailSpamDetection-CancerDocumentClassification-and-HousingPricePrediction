@@ -2,6 +2,11 @@
 
 **ModelEvalGUI** is a versatile graphical user interface (GUI) application that facilitates the evaluation of machine learning models for three different domains: Email Spam Detection, Cancer Document Classification, and Housing Price Prediction. This project is designed to be user-friendly and flexible, allowing users to choose from various models and evaluation methods for their specific dataset.
 
+
+________________________________________________________________________________________________________________________________________________________________________________
+
+
+
 ## Features
 
 - **Multi-Domain Support**: ModelEvalGUI supports three distinct domains: Email Spam Detection, Cancer Document Classification, and Housing Price Prediction. You can easily choose your dataset of interest.
@@ -14,6 +19,10 @@
 
 - **Model Persistence**: Save your trained machine learning models for later use. ModelEvalGUI provides the option to load these models directly within the application to evaluate and display their accuracy.
 
+
+______________________________________________________________________________________________________________________________________________________________
+
+
 ## Usage
 
 1. **Select Dataset**: Choose from three datasets - EmailSpam.csv, CancerDocument.csv, and HousingPrice.csv - using the combo box.
@@ -24,11 +33,16 @@
 
 4. **Plot Results**: Click the "Plot" button to visualize the evaluation results in the figure area.
 
+________________________________________________________________________________________________________________________________________________________________________
+
 
 ## Requirements
 
 - Python 3.9
 - Required Python libraries (scikit-learn, matplotlib, numpy, pandas, seaborn, emoji, beautifulsoup4, nltk)
+
+
+_________________________________________________________________________________________________________________________________________________________________________
 
 
 ## How to start
@@ -39,6 +53,10 @@ First, install python requirements by using the following command:
 pip install -r Requirements.txt
 ```
 Next, run userinterface.py to run the application 
+
+
+
+__________________________________________________________________________________________________________________________________________________________________________
 
 
 ## Screenshots
@@ -72,6 +90,8 @@ Next, run userinterface.py to run the application
 
 
 
+______________________________________________________________________________________________________________________________________________________________________________
+
 
 ## Acknowledgments
 
@@ -97,6 +117,8 @@ Next, run userinterface.py to run the application
 - [joblib](https://pypi.org/project/joblib/): For efficiently saving and loading machine learning models, ensuring persistence across sessions.
 
 
+
+______________________________________________________________________________________________________________________________________________________________________________
 
 
 ## Author
