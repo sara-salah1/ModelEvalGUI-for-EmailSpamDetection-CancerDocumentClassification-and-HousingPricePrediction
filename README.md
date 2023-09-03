@@ -52,3 +52,10 @@
 **Cancer Document Classification**
 
 ![Screenshot 2023-09-03 041200](https://github.com/sara-salah1/ModelEvalGUI-for-EmailSpamDetection-CancerDocumentClassification-and-HousingPricePrediction/assets/67710906/eb15b9b0-b7e8-45e2-afed-5c06c03ab2c8)
+
+
+
+**Housing Price Prediction**
+
+![Screenshot 2023-09-03 041224](https://github.com/sara-salah1/ModelEvalGUI-for-EmailSpamDetection-CancerDocumentClassification-and-HousingPricePrediction/assets/67710906/e1d78152-7a77-43d9-b2a6-1dcecda06289)
+
