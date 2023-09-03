@@ -30,4 +30,9 @@
 - Python 3.9
 - Required Python libraries (scikit-learn, matplotlib, numpy, pandas, seaborn, emoji, beautifulsoup4, nltk)
 
+## Screenshots
+![Interface](https://github.com/sara-salah1/ModelEvalGUI-for-EmailSpamDetection-CancerDocumentClassification-and-HousingPricePrediction/assets/67710906/8fa260f3-af7c-4635-9fb1-a7acb971bcd5)
+![EmailSpam select all models](https://github.com/sara-salah1/ModelEvalGUI-for-EmailSpamDetection-CancerDocumentClassification-and-HousingPricePrediction/assets/67710906/5c690d2b-e653-4d51-88be-4ddb3ec8775f)
+
+
 
