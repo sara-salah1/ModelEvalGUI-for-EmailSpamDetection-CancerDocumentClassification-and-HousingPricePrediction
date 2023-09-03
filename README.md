@@ -81,3 +81,9 @@
 
 - [NLTK](https://www.nltk.org/): For its natural language processing capabilities, assisting in text preprocessing and analysis.
 
+
+
+
+## Auther
+The ModelEval GUI has been built by **Sara Salah**
+
