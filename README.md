@@ -31,13 +31,21 @@
 - Required Python libraries (scikit-learn, matplotlib, numpy, pandas, seaborn, emoji, beautifulsoup4, nltk)
 
 ## Screenshots
+
 **Email Spam Detection**
+
+
 ![Interface](https://github.com/sara-salah1/ModelEvalGUI-for-EmailSpamDetection-CancerDocumentClassification-and-HousingPricePrediction/assets/67710906/8fa260f3-af7c-4635-9fb1-a7acb971bcd5)
 ![EmailSpam select all models](https://github.com/sara-salah1/ModelEvalGUI-for-EmailSpamDetection-CancerDocumentClassification-and-HousingPricePrediction/assets/67710906/5c690d2b-e653-4d51-88be-4ddb3ec8775f)
+
 ![spamdetectconfusionm](https://github.com/sara-salah1/ModelEvalGUI-for-EmailSpamDetection-CancerDocumentClassification-and-HousingPricePrediction/assets/67710906/cc74272c-7eca-4a20-b663-f98e1d7ffbde)
 ![Screenshot 2023-09-03 041026](https://github.com/sara-salah1/ModelEvalGUI-for-EmailSpamDetection-CancerDocumentClassification-and-HousingPricePrediction/assets/67710906/152f08e5-509d-4e4a-9ea8-8cb0960f9e41)
+
 ![Screenshot 2023-09-03 041051](https://github.com/sara-salah1/ModelEvalGUI-for-EmailSpamDetection-CancerDocumentClassification-and-HousingPricePrediction/assets/67710906/7f5affd8-bca4-4a3f-9353-7742fd326858)
 ![Screenshot 2023-09-03 041113](https://github.com/sara-salah1/ModelEvalGUI-for-EmailSpamDetection-CancerDocumentClassification-and-HousingPricePrediction/assets/67710906/f64c1314-50d3-4e5e-b399-7a07535f72c0)
 
+
+
 **Cancer Document Classification**
+
 ![Screenshot 2023-09-03 041200](https://github.com/sara-salah1/ModelEvalGUI-for-EmailSpamDetection-CancerDocumentClassification-and-HousingPricePrediction/assets/67710906/eb15b9b0-b7e8-45e2-afed-5c06c03ab2c8)
