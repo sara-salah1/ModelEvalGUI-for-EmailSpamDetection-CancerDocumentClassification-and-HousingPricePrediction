@@ -55,6 +55,10 @@
 
 
 
+**Housing Price Prediction**
+
+![Screenshot 2023-09-03 041224](https://github.com/sara-salah1/ModelEvalGUI-for-EmailSpamDetection-CancerDocumentClassification-and-HousingPricePrediction/assets/67710906/e1d78152-7a77-43d9-b2a6-1dcecda06289)
+
 
 
 
@@ -76,11 +80,4 @@
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/): For aiding in web scraping tasks and cleaning HTML content.
 
 - [NLTK](https://www.nltk.org/): For its natural language processing capabilities, assisting in text preprocessing and analysis.
-
-
-
-
-**Housing Price Prediction**
-
-![Screenshot 2023-09-03 041224](https://github.com/sara-salah1/ModelEvalGUI-for-EmailSpamDetection-CancerDocumentClassification-and-HousingPricePrediction/assets/67710906/e1d78152-7a77-43d9-b2a6-1dcecda06289)
 
