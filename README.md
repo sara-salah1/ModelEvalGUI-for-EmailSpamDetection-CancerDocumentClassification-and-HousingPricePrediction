@@ -55,6 +55,28 @@
 
 
 
+## Acknowledgments
+
+
+- [scikit-learn](https://scikit-learn.org/): For providing powerful machine learning tools that i used extensively for model building and evaluation.
+
+- [Matplotlib](https://matplotlib.org/): For creating visualizations, including plots of accuracy and confusion matrices.
+
+- [NumPy](https://numpy.org/): For its fundamental role in scientific computing and data manipulation.
+
+- [pandas](https://pandas.pydata.org/): For simplifying data handling and manipulation tasks, making data analysis more efficient.
+
+- [Seaborn](https://seaborn.pydata.org/): For enhancing the aesthetics of the visualizations and improving the overall look of the graphical representations.
+
+- [Emoji](https://pypi.org/project/emoji/): For expressiveness emojis to a text data.
+
+- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/): For aiding in web scraping tasks and cleaning HTML content.
+
+- [NLTK](https://www.nltk.org/): For its natural language processing capabilities, assisting in text preprocessing and analysis.
+
+
+
+
 **Housing Price Prediction**
 
 ![Screenshot 2023-09-03 041224](https://github.com/sara-salah1/ModelEvalGUI-for-EmailSpamDetection-CancerDocumentClassification-and-HousingPricePrediction/assets/67710906/e1d78152-7a77-43d9-b2a6-1dcecda06289)
