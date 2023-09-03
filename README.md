@@ -30,6 +30,17 @@
 - Python 3.9
 - Required Python libraries (scikit-learn, matplotlib, numpy, pandas, seaborn, emoji, beautifulsoup4, nltk)
 
+
+## How to start
+
+First, install python requirements by using the following command:
+
+```
+pip install -r Requirements.txt
+```
+
+
+
 ## Screenshots
 
 ![Interface](https://github.com/sara-salah1/ModelEvalGUI-for-EmailSpamDetection-CancerDocumentClassification-and-HousingPricePrediction/assets/67710906/8fa260f3-af7c-4635-9fb1-a7acb971bcd5)
@@ -81,9 +92,13 @@
 
 - [NLTK](https://www.nltk.org/): For its natural language processing capabilities, assisting in text preprocessing and analysis.
 
+- [PyQt5](https://pypi.org/project/PyQt5/): For building the graphical user interface (GUI) of our application, making it user-friendly and interactive.
+
+- [joblib](https://pypi.org/project/joblib/): For efficiently saving and loading machine learning models, ensuring persistence across sessions.
 
 
 
-## Auther
+
+## Author
 The ModelEval GUI has been built by **Sara Salah**
 
