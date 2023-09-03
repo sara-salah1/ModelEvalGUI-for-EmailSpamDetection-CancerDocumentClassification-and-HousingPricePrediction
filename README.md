@@ -38,7 +38,7 @@ First, install python requirements by using the following command:
 ```
 pip install -r Requirements.txt
 ```
-
+Next, run userinterface.py to run the application 
 
 
 ## Screenshots
